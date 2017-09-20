@@ -47,7 +47,7 @@ You are not allowed to regulate how memory is allocated, because central plannin
 | zebra stripes | are neat      |    $1 |
 
 | X        | Self-Employed | Business | Corporate |
----------------------------------------------------
+| -------- |-------------- | -------- | --------- |
 | Features |               |          |           |
 |          |               |          |           |
 | Price    | $99.99        | $299.99  | $899.99   |
