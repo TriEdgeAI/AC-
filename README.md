@@ -21,7 +21,7 @@ void cost(0.001) bogosort(int arr[], int length)
 
 Thus, when a program runs, it no longer measures in % of CPU usage, instead it measures in GDP.
 
-
+![gdp](https://user-images.githubusercontent.com/12459664/30664964-2685e926-9e58-11e7-9270-c1d896392b8c.png)
 
 ## Type System
 The type system consists of the following primitive types:
