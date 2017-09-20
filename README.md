@@ -40,10 +40,10 @@ You are not allowed to regulate how memory is allocated, because central plannin
 
 ## Pricing
 
-| X        | Self-Employed | Business | Corporate |
-| -------- |-------------- | -------- | --------- |
-| Features |               |          |           |
-|          |               |          |           |
-| Price&ast;   | $99.99        | $299.99  | $899.99   |
+| X          | Self-Employed | Business | Corporate |
+| ---------- |-------------- | -------- | --------- |
+| Features   |               |          |           |
+|            |               |          |           |
+| Price&ast; | $99.99        | $299.99  | $899.99   |
 
 &ast; All prices are per application and do not include VAT.
