@@ -40,6 +40,12 @@ You are not allowed to regulate how memory is allocated, because central plannin
 
 ## Pricing
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 |          | Self-Employed | Business | Corporate |
 ---------------------------------------------------
 | Features |               |          |           |
