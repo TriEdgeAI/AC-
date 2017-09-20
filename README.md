@@ -46,7 +46,7 @@ You are not allowed to regulate how memory is allocated, because central plannin
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-|          | Self-Employed | Business | Corporate |
+| X        | Self-Employed | Business | Corporate |
 ---------------------------------------------------
 | Features |               |          |           |
 |          |               |          |           |
