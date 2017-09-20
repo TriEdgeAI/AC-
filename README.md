@@ -44,6 +44,6 @@ You are not allowed to regulate how memory is allocated, because central plannin
 | -------- |-------------- | -------- | --------- |
 | Features |               |          |           |
 |          |               |          |           |
-| Price*   | $99.99        | $299.99  | $899.99   |
+| Price&ast;   | $99.99        | $299.99  | $899.99   |
 
-* All prices are per application and do not include VAT.
+&ast; All prices are per application and do not include VAT.
