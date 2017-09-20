@@ -40,16 +40,10 @@ You are not allowed to regulate how memory is allocated, because central plannin
 
 ## Pricing
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 | X        | Self-Employed | Business | Corporate |
 | -------- |-------------- | -------- | --------- |
 | Features |               |          |           |
 |          |               |          |           |
-| Price    | $99.99        | $299.99  | $899.99   |
+| Price*   | $99.99        | $299.99  | $899.99   |
 
 * All prices are per application and do not include VAT.
