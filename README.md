@@ -40,7 +40,7 @@ You are not allowed to regulate how memory is allocated, because central plannin
 
 ## Pricing
 
-| X          | Self-Employed | Business | Corporate |
+|            | Self-Employed | Business | Corporate |
 | ---------- |-------------- | -------- | --------- |
 | Features   |               |          |           |
 |            |               |          |           |
