@@ -4,7 +4,7 @@
 Classes are supported in Anarcho-C++, unlike in CCC++, however members of classes can only be either `private` or `protected`. The `public` keyword has been removed.
 
 ## Unions
-Unions in Anarcho-C++ are deprecated, but the keyword is kept for compatibility reasons. That means that you will be able to declare a union, but it won't really function like one.
+Unions in Anarcho-C++ are deprecated, but the keyword is kept for compatibility reasons. That means that you will be able to declare a union, but it will not really do anything.
 
 ## Method Invocation
 Invoking methods in Anarcho-C++ costs bitcoins, because if method invocation was free, programs would invoke them as much as they want without caring and that leads to programs getting stuck, lagspikes and so on. A special keyword "cost" is introduced, which is to be used in method declarations in order to specify how much bitcoins it costs to invoke the method. Example:
@@ -46,4 +46,4 @@ You are not allowed to regulate how memory is allocated, because central plannin
 |            |               |          |           |
 | Price&ast; | $99.99        | $299.99  | $899.99   |
 
-&ast; All prices are per application and do not include VAT.
+&ast; All prices are per application and do not include VAT (Value Added Theft) enforced by your violent gang/government.
