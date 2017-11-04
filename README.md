@@ -46,4 +46,4 @@ You are not allowed to regulate how memory is allocated, because central plannin
 |            |               |          |           |
 | Price&ast; | $99.99        | $299.99  | $899.99   |
 
-&ast; All prices are per application and do not include VAT (Value Added Theft) enforced by your violent gang/government.
+&ast; All prices are per application and do not include VAT (Value Added Theft) enforced by your local violent gang/government.
